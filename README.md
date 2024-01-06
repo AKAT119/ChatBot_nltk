@@ -25,7 +25,10 @@ Usage
 Interacting with the chatbot is straightforward:
 
 1- Execute the chatbot script.
+
 2- Initiate the conversation with a greeting.
+
 3- Engage with the chatbot as you wish.
+
 4- Type 'bye' to exit the conversation.
 
